@@ -1,0 +1,344 @@
+
+Explanation for binary files inside source package according to
+  http://lists.debian.org/debian-devel/2013/09/msg00332.html
+
+Files: data/Aids2.rda
+Documentation: man/Aids2.Rd
+  -> Australian AIDS Survival Data
+
+Files: data/Animals.rda
+Documentation: man/Animals.Rd
+  -> Brain and Body Weights for 28 Species
+
+Files: data/Boston.rda
+Documentation: man/Boston.Rd
+  -> Housing Values in Suburbs of Boston
+
+Files: data/Cars93.rda
+Documentation: man/Cars93.Rd
+  -> Data from 93 Cars on Sale in the USA in 1993
+
+Files: data/Cushings.rda
+Documentation: man/Cushings.Rd
+  -> Diagnostic Tests on Patients with Cushing's Syndrome
+
+Files: data/DDT.rda
+Documentation: man/DDT.Rd
+  -> DDT in Kale
+
+Files: data/GAGurine.rda
+Documentation: man/GAGurine.Rd
+  -> Level of GAG in Urine of Children
+
+Files: data/Insurance.rda
+Documentation: man/Insurance.Rd
+  -> Numbers of Car Insurance claims
+
+Files: data/Melanoma.rda
+Documentation: man/Melanoma.Rd
+  -> Survival from Malignant Melanoma
+
+Files: data/OME.rda
+Documentation: man/OME.Rd
+  -> Tests of Auditory Perception in Children with OME
+
+Files: data/Pima.te.rda
+Files: data/Pima.tr.rda
+Files: data/Pima.tr2.rda
+Documentation: man/Pima.tr.Rd
+  -> Diabetes in Pima Indian Women
+
+Files: data/Rabbit.rda
+Documentation: man/Rabbit.Rd
+  -> Blood Pressure in Rabbits
+
+Files: data/Rubber.rda
+Documentation: man/Rubber.Rd
+  -> Accelerated Testing of Tyre Rubber
+
+Files: data/SP500.rda
+Documentation: man/SP500.Rd
+  -> Returns of the Standard and Poors 500
+
+Files: data/Sitka.rda
+Documentation: man/Sitka.Rd
+  -> Growth Curves for Sitka Spruce Trees in 1988
+
+Files: data/Sitka89.rda
+Documentation: man/Sitka89.Rd
+  -> Growth Curves for Sitka Spruce Trees in 1989
+
+Files: data/Skye.rda
+Documentation: man/Skye.Rd
+  -> AFM Compositions of Aphyric Skye Lavas
+
+Files: data/Traffic.rda
+Documentation: man/Traffic.Rd
+  -> Effect of Swedish Speed Limits on Accidents
+
+Files: data/UScereal.rda
+Documentation: man/UScereal.Rd
+  -> Nutritional and Marketing Information on US Cereals
+
+Files: data/UScrime.rda
+Documentation: man/UScrime.Rd
+  -> The Effect of Punishment Regimes on Crime Rates
+
+Files: data/VA.rda
+Documentation: man/VA.Rd
+  -> Veteran's Administration Lung Cancer Trial
+
+Files: data/abbey.rda
+Documentation: man/abbey.Rd
+  -> Determinations of Nickel Content
+
+Files: data/accdeaths.rda
+Documentation: man/accdeaths.Rd
+  -> Accidental Deaths in the US 1973-1978
+
+Files: data/anorexia.rda
+Documentation: man/anorexia.Rd
+  -> Anorexia Data on Weight Change
+
+Files: data/bacteria.rda
+Documentation: man/bacteria.Rd
+  -> Presence of Bacteria after Drug Treatments
+
+Files: data/beav1.rda
+Documentation: man/beav1.Rd
+  -> Body Temperature Series of Beaver 1
+
+Files: data/beav2.rda
+Documentation: man/beav2.Rd
+  -> Body Temperature Series of Beaver 2
+
+Files: data/biopsy.rda
+Documentation: man/biopsy.Rd
+  -> Biopsy Data on Breast Cancer Patients
+
+Files: data/birthwt.rda
+Documentation: man/birthwt.Rd
+  -> Risk Factors Associated with Low Infant Birth Weight
+
+Files: data/cabbages.rda
+Documentation: man/cabbages.Rd
+  -> Data from a cabbage field trial
+
+Files: data/caith.rda
+Documentation: man/caith.Rd
+  -> Colours of Eyes and Hair of People in Caithness
+
+Files: data/cats.rda
+Documentation: man/cats.Rd
+  -> Anatomical Data from Domestic Cats
+
+Files: data/cement.rda
+Documentation: man/cement.Rd
+  -> Heat Evolved by Setting Cements
+
+Files: data/chem.rda
+Documentation: man/chem.Rd
+  -> Copper in Wholemeal Flour
+
+Files: data/coop.rda
+Documentation: man/coop.Rd
+  -> Co-operative Trial in Analytical Chemistry
+
+Files: data/cpus.rda
+Documentation: man/cpus.Rd
+  -> Performance of Computer CPUs
+
+Files: data/crabs.rda
+Documentation: man/crabs.Rd
+  -> Morphological Measurements on Leptograpsus Crabs
+
+Files: data/deaths.rda
+Documentation: man/deaths.Rd
+  -> Monthly Deaths from Lung Diseases in the UK
+
+Files: data/drivers.rda
+Documentation: man/drivers.Rd
+  -> Deaths of Car Drivers in Great Britain 1969-84
+
+Files: data/eagles.rda
+Documentation: man/eagles.Rd
+  -> Foraging Ecology of Bald Eagles
+
+Files: data/epil.rda
+Documentation: man/epil.Rd
+  -> Seizure Counts for Epileptics
+
+Files: data/farms.rda
+Documentation: man/farms.Rd
+  -> Ecological Factors in Farm Management
+
+Files: data/fgl.rda
+Documentation: man/fgl.Rd
+  -> Measurements of Forensic Glass Fragments
+
+Files: data/forbes.rda
+Documentation: man/forbes.Rd
+  -> Forbes' Data on Boiling Points in the Alps
+
+Files: data/galaxies.rda
+Documentation: man/galaxies.Rd
+  -> Velocities for 82 Galaxies
+
+Files: data/gehan.rda
+Documentation: man/gehan.Rd
+  -> Remission Times of Leukaemia Patients
+
+Files: data/genotype.rda
+Documentation: man/genotype.Rd
+  -> Rat Genotype Data
+
+Files: data/geyser.rda
+Documentation: man/geyser.Rd
+  -> Eruptions data from the 'Old Faithful' geyser
+
+Files: data/gilgais.rda
+Documentation: man/gilgais.Rd
+  -> Line Transect of Soil in Gilgai Territory
+
+Files: data/hills.rda
+Documentation: man/hills.Rd
+  -> Record Times in Scottish Hill Races
+
+Files: data/housing.rda
+Documentation: man/housing.Rd
+  -> Frequency Table from a Copenhagen Housing Conditions Survey
+
+Files: data/immer.rda
+Documentation: man/immer.Rd
+  -> Yields from a Barley Field Trial
+
+Files: data/leuk.rda
+Documentation: man/leuk.Rd
+  -> Survival Times and White Blood Counts for Leukaemia Patients
+
+Files: data/mammals.rda
+Documentation: man/mammals.Rd
+  -> Brain and Body Weights for 62 Species of Land Mammals
+
+Files: data/mcycle.rda
+Documentation: man/mcycle.Rd
+  -> Data from a Simulated Motorcycle Accident
+
+Files: data/menarche.rda
+Documentation: man/menarche.Rd
+  -> Age of Menarche in Warsaw
+
+Files: data/michelson.rda
+Documentation: man/michelson.Rd
+  -> Michelson's Speed of Light Data
+
+Files: data/minn38.rda
+Documentation: man/minn38.Rd
+  -> Minnesota High School Graduates of 1938
+
+Files: data/motors.rda
+Documentation: man/motors.Rd
+  -> Accelerated Life Testing of Motorettes
+
+Files: data/muscle.rda
+Documentation: man/muscle.Rd
+  -> Effect of Calcium Chloride on Muscle Contraction in Rat Hearts
+
+Files: data/newcomb.rda
+Documentation: man/newcomb.Rd
+  -> Newcomb's Measurements of the Passage Time of Light
+
+Files: data/nlschools.rda
+Documentation: man/nlschools.Rd
+  -> Eighth-Grade Pupils in the Netherlands
+
+Files: data/npk.rda
+Documentation: man/npk.Rd
+  -> Classical N, P, K Factorial Experiment
+
+Files: data/npr1.rda
+Documentation: man/npr1.Rd
+  -> US Naval Petroleum Reserve No. 1 data
+
+Files: data/oats.rda
+Documentation: man/oats.Rd
+  -> Data from an Oats Field Trial
+
+Files: data/painters.rda
+Documentation: man/painters.Rd
+  -> The Painter's Data of de Piles
+
+Files: data/petrol.rda
+Documentation: man/petrol.Rd
+  -> N. L. Prater's Petrol Refinery Data
+
+Files: data/phones.rda
+Documentation: man/phones.Rd
+  -> Belgium Phone Calls 1950-1973
+
+Files: data/quine.rda
+Documentation: man/quine.Rd
+  -> Absenteeism from School in Rural New South Wales
+
+Files: data/road.rda
+Documentation: man/road.Rd
+  -> Road Accident Deaths in US States
+
+Files: data/rotifer.rda
+Documentation: man/rotifer.Rd
+  -> Numbers of Rotifers by Fluid Density
+
+Files: data/ships.rda
+Documentation: man/ships.Rd
+  -> Ships Damage Data
+
+Files: data/shoes.rda
+Documentation: man/shoes.Rd
+  -> Shoe wear data of Box, Hunter and Hunter
+
+Files: data/shrimp.rda
+Documentation: man/shrimp.Rd
+  -> Percentage of Shrimp in Shrimp Cocktail
+
+Files: data/shuttle.rda
+Documentation: man/shuttle.Rd
+  -> Space Shuttle Autolander Problem
+
+Files: data/snails.rda
+Documentation: man/snails.Rd
+  -> Snail Mortality Data
+
+Files: data/steam.rda
+Documentation: man/steam.Rd
+  -> The Saturated Steam Pressure Data
+
+Files: data/stormer.rda
+Documentation: man/stormer.Rd
+  -> The Stormer Viscometer Data
+
+Files: data/survey.rda
+Documentation: man/survey.Rd
+  -> Student Survey Data
+
+Files: data/synth.tr.rda
+Files: data/synth.te.rda
+Documentation: man/synth.tr.Rd
+  -> Synthetic Classification Problem
+
+Files: data/topo.rda
+Documentation: man/topo.Rd
+  -> Spatial Topographic Data
+
+Files: data/waders.rda
+Documentation: man/waders.Rd
+  -> Counts of Waders at 15 Sites in South Africa
+
+Files: data/whiteside.rda
+Documentation: man/whiteside.Rd
+  -> House Insulation: Whiteside's Data
+
+Files: data/wtloss.rda
+Documentation: man/wtloss.Rd
+  -> Weight Loss Data from an Obese Patient
+
+ -- Dirk Eddelbuettel <edd@debian.org>, Sun, 24 Dec 2017 17:18:56 -0600

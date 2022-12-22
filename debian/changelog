@@ -1,0 +1,433 @@
+r-cran-mass (7.3-54-2) unstable; urgency=medium
+
+  * Simple rebuild for unstable following Debian 11 release
+
+  * debian/control: Set Build-Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 16 Aug 2021 15:41:13 -0500
+
+r-cran-mass (7.3-54-1) experimental; urgency=medium
+
+  * New upstream release (to experimental during freeze)
+
+  * debian/control: Set Build-Depends: to recent R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 08 May 2021 16:42:22 -0500
+
+r-cran-mass (7.3-53.1-1) unstable; urgency=medium
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 12 Feb 2021 12:26:27 -0600
+
+r-cran-mass (7.3-53-1) unstable; urgency=medium
+
+  * New upstream release
+
+  * debian/control: Switch to virtual debhelper-compat (= 10)
+  * debian/compat: Removed
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 09 Sep 2020 08:25:27 -0500
+
+r-cran-mass (7.3-52-1) unstable; urgency=medium
+
+  * New upstream release
+  
+  * debian/control: Set Build-Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 18 Aug 2020 07:56:20 -0500
+
+r-cran-mass (7.3-51.6-1) unstable; urgency=medium
+
+  * New upstream release
+  
+  * debian/control: Set Standards-Version: to current version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sun, 26 Apr 2020 07:54:19 -0500
+
+r-cran-mass (7.3-51.5-2) unstable; urgency=medium
+
+  * Source-only upload
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sun, 19 Jan 2020 17:27:30 -0600
+
+r-cran-mass (7.3-51.5-1) unstable; urgency=medium
+
+  * New upstream release
+  
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version
+  
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 21 Dec 2019 09:09:06 -0600
+
+r-cran-mass (7.3-51.4-2) unstable; urgency=medium
+
+  * Source-only upload
+  
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sun, 18 Aug 2019 06:24:12 -0500
+
+r-cran-mass (7.3-51.4-1) unstable; urgency=medium
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 30 Apr 2019 07:24:04 -0500
+
+r-cran-mass (7.3-51.3-1) unstable; urgency=medium
+
+  * New upstream release
+  
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 01 Apr 2019 16:05:16 -0500
+
+r-cran-mass (7.3-51.1-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 02 Nov 2018 17:33:44 -0500
+
+r-cran-mass (7.3-51-1) unstable; urgency=medium
+
+  * New upstream release
+  
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 20 Oct 2018 17:05:20 -0500
+
+r-cran-mass (7.3-50-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 05 May 2018 10:56:30 -0500
+
+r-cran-mass (7.3-49-1.1) unstable; urgency=medium
+
+  * (Inofficial) Rebuild for R 3.5.0
+
+  * Manual override for ${R:Depends} while dh-r is looked at
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+  * debian/control: Add Vcs-Browser: and Vcs-Git:
+  * debian/control: Switch from cdbs to dh-r
+  * debian/rules: Idem
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 28 Apr 2018 14:03:58 -0500
+
+r-cran-mass (7.3-49-1) unstable; urgency=medium
+
+  * New upstream release
+  
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 23 Feb 2018 07:03:18 -0600
+
+r-cran-mass (7.3-48-1) unstable; urgency=medium
+
+  * New upstream release
+  
+  * debian/control: Set Standards-Version: to current version 
+  * debian/control: Set Build-Depends: to current R version 
+  * debian/compat: Set level to 9
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sun, 24 Dec 2017 17:04:12 -0600
+
+r-cran-mass (7.3-47-1) unstable; urgency=medium
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+  * debian/control: Add Depends: on ${misc:Depends}
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 21 Apr 2017 11:17:42 -0500
+
+r-cran-mass (7.3-45-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 10 Nov 2015 12:15:23 -0600
+
+r-cran-mass (7.3-44-1) unstable; urgency=low
+
+  * New upstream release
+  
+  * debian/control: Set Build-Depends: to current R version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sun, 30 Aug 2015 11:07:18 -0500
+
+r-cran-mass (7.3-43-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 21 Jul 2015 06:54:14 -0500
+
+r-cran-mass (7.3-42-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 02 Jul 2015 04:04:18 -0500
+
+r-cran-mass (7.3-41-1) unstable; urgency=low
+
+  * New upstream release
+  
+  * debian/control: Set Build-Depends: to current R version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 19 Jun 2015 09:08:27 -0500
+
+r-cran-mass (7.3-40-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 21 Mar 2015 08:41:57 -0500
+
+r-cran-mass (7.3-39-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 20 Feb 2015 06:37:29 -0600
+
+r-cran-mass (7.3-37-1) unstable; urgency=low
+
+  * New upstream release
+  
+  * debian/control: Set Build-Depends: to current R version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 10 Jan 2015 08:27:49 -0600
+
+r-cran-mass (7.3-35-1) unstable; urgency=low
+
+  * New upstream release
+  
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 30 Sep 2014 09:42:10 -0500
+
+r-cran-mass (7.3-34-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 21 Aug 2014 06:35:35 -0500
+
+r-cran-mass (7.3-33-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 05 May 2014 08:33:55 -0500
+
+r-cran-mass (7.3-32-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sun, 27 Apr 2014 10:20:27 -0500
+
+r-cran-mass (7.3-31-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 28 Mar 2014 06:28:24 -0500
+
+r-cran-mass (7.3-30-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version 
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 08 Mar 2014 07:58:27 -0600
+
+r-cran-mass (7.3-29-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 31 Aug 2013 17:01:22 -0500
+
+r-cran-mass (7.3-28-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 02 Aug 2013 17:03:46 -0500
+
+r-cran-mass (7.3-27-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 13 Jul 2013 11:54:27 -0500
+
+r-cran-mass (7.3-26-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version 
+  
+  * (Re-)building with R 3.0.0 (beta)
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 25 Mar 2013 21:24:05 -0500
+
+r-cran-mass (7.3-23-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 08 Jan 2013 21:21:53 -0600
+
+r-cran-mass (7.3-22-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 03 Oct 2012 12:06:18 -0500
+
+r-cran-mass (7.3-21-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 30 Aug 2012 10:35:21 -0500
+
+r-cran-mass (7.3-20-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 01 Aug 2012 14:40:42 -0500
+
+r-cran-mass (7.3-19-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 27 Jun 2012 12:01:16 -0500
+
+r-cran-mass (7.3-18-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Change Depends to ${R:Depends}
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 26 Apr 2012 08:12:22 -0500
+
+r-cran-mass (7.3-17-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 08 Feb 2012 12:39:33 -0600
+
+r-cran-mass (7.3-16-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 02 Nov 2011 15:57:06 -0500
+
+r-cran-mass (7.3-14-1) unstable; urgency=low
+
+  * New upstream release
+  
+  * debian/control: Set (Build-)Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 23 Jul 2011 13:10:25 -0500
+
+r-cran-mass (7.3-13-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 13 Apr 2011 18:03:21 -0500
+
+r-cran-mass (7.3-11-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 10 Feb 2011 12:07:21 -0600
+
+r-cran-mass (7.3-9-1) unstable; urgency=low
+
+  * New upstream release
+  
+  * debian/control: Set (Build-)Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+
+  * debian/control: Now also Provides:, Conflicts:, Replaces: r-cran-vr so
+    that we can retire the virtual package which was created when upstream
+    moved from a package bundle VR to packages MASS, nnet, class, spatial.
+  
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 03 Dec 2010 10:07:42 -0600
+
+r-cran-mass (7.3-7-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+  
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 03 Jul 2010 15:53:58 -0500
+
+r-cran-mass (7.3-6-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+  
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 28 May 2010 21:59:00 -0500
+
+r-cran-mass (7.3-5-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sun, 03 Jan 2010 09:39:17 -0600
+
+r-cran-mass (7.3-4-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Provided extended long Description:
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 23 Nov 2009 06:00:18 -0600
+
+r-cran-mass (7.3-3-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 28 Oct 2009 20:41:40 -0500
+
+r-cran-mass (7.3-2-1) unstable; urgency=low
+
+  * Initial Debian package				(Closes: #551129)
+  
+  * MASS used to be part of the VR bundle which has been in Debian as package
+    r-cran-vr since Jan 2004, and as part of the r-base package since Dec 1997.
+    It has been unbundled with deprecation of package bundles in R 2.10.0
+  
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 15 Oct 2009 19:44:35 -0500
