@@ -1,3 +1,81 @@
+r-cran-mass (7.3-60-2) unstable; urgency=medium
+
+  * Rebuilding for unstable following bookworm release
+  
+  * debian/control: Set Build-Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 21 Jun 2023 06:50:23 -0500
+
+r-cran-mass (7.3-60-1) experimental; urgency=medium
+
+  * New upstream release (into 'experimental' while Debian is frozen)
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 08 May 2023 17:35:19 -0500
+
+r-cran-mass (7.3-59-1) experimental; urgency=medium
+
+  * New upstream release (into 'experimental' while Debian is frozen)
+
+  * debian/control: Set Build-Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 25 Apr 2023 07:58:42 -0500
+
+r-cran-mass (7.3-58.3-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 07 Mar 2023 19:40:58 -0600
+
+r-cran-mass (7.3-58.2-1) unstable; urgency=medium
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+  * debian/control: Switch to virtual debhelper-compat (= 12)
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 23 Jan 2023 07:09:09 -0600
+
+r-cran-mass (7.3-58.1-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 04 Aug 2022 12:51:04 -0500
+
+r-cran-mass (7.3-58-1) unstable; urgency=medium
+
+  * New upstream release
+  
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 14 Jul 2022 06:43:39 -0500
+
+r-cran-mass (7.3-57-1) unstable; urgency=medium
+
+  * New upstream release
+  
+  * debian/control: Set Build-Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 22 Apr 2022 13:37:54 -0500
+
+r-cran-mass (7.3-56-1) unstable; urgency=medium
+
+  * New upstream release
+  
+  * debian/control: Set Build-Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 23 Mar 2022 08:44:23 -0500
+
+r-cran-mass (7.3-55-1) unstable; urgency=medium
+
+  * New upstream release
+  
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 13 Jan 2022 08:30:31 -0600
+
 r-cran-mass (7.3-54-2) unstable; urgency=medium
 
   * Simple rebuild for unstable following Debian 11 release
